@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    alert("Click on your favorite letter...")
+    alert("Click on your favorite letter.... Careful! You can only have one!")
     const fonts = [
         `"Geologica", sans-serif`,
         `"UnifrakturMaguntia", cursive`,
@@ -36,5 +36,6 @@ $(document).ready(function () {
         });
     });
 });
+
 
 
