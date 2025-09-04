@@ -23,8 +23,10 @@ h1 {
 
 span:hover {
     color: blueviolet;
+    cursor: pointer;
 }
 
 .chosen {
     color: blueviolet;
+
 }
