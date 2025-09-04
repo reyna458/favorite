@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Caesar+Dressing&family=Danfo&family=Festive&family=Fruktur:ital@0;1&family=Geologica:wght@100..900&family=Kablammo&family=Libertinus+Keyboard&family=Monoton&family=Nabla&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Nosifer&family=Oxanium:wght@200..800&family=Plaster&family=Press+Start+2P&family=Princess+Sofia&family=Rubik+Glitch&family=Rubik+Puddles&family=Sue+Ellen+Francisco&family=UnifrakturMaguntia&display=swap');
+
+
+
+div {
+    width: 300px;
+    height: 300px;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+h1 {
+    align-self: center;
+    justify-self: center;
+    font-size: 128px;
+}
+
+span:hover {
+    color: blueviolet;
+}
+
+.chosen {
+    color: blueviolet;
+}
